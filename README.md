@@ -1,2 +1,2 @@
-# SQL-Leetcode-database
+# Leetcode
 problemset
